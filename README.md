@@ -1,7 +1,6 @@
-Here's a README file for your BudgetTracker project:
+>> THIS PROJECT IS STILL IN PROGRESS <<
 
-markdown
-Code kopieren
+
 # BudgetTracker
 
 BudgetTracker is a simple Python application that allows users to track their income and expenses. It helps users manage their budget by displaying total income, total expenses, and the remaining budget after expenses are subtracted from income.
@@ -68,5 +67,4 @@ Contributions are welcome! Please fork the repository and create a pull request 
 License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-markdown
-Code kopieren
+
